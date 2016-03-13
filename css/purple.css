@@ -1,0 +1,85 @@
+/***********************************************
+	Primary - Background Color
+***********************************************/
+::-moz-selection {
+    background: #5a528d;
+    color: #fff;
+}
+
+::selection {
+    background: #5a528d;
+    color: #fff;
+}
+
+.skillbar-title,
+.skillbar-bar,
+.btn-primary,
+.label-primary,
+.blog-list li:hover,
+.nav > li > a:hover, .nav > li > a:focus {
+    background: #5a528d;
+}
+
+/***********************************************
+	Primary - Text Color
+***********************************************/
+a,
+.about-icon .fa-circle,
+figure figcaption a:hover,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus
+.navbar-default .navbar-nav > .hovernav:hover > a,
+.navbar-default .navbar-nav > .hovernav:hover > a:hover,
+.navbar-default .navbar-nav > .hovernav:hover > a:focus
+.nav > li > a:hover,
+.nav > li > a:focus,
+.nav > li > span:hover,
+.nav > li > span:focus,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:focus,
+.portfolio-links a:hover,
+.portfolio-links .icon:hover,
+.connected-icon a:focus,
+.connected-icon a:hover,
+.btn-link,
+.post-title a:hover,
+.post-title a:focus,
+#main-nav .current {
+    color: #5a528d;
+}
+
+.phone-info {
+    background: rgba(90, 82, 141, 0.2);
+}
+
+/***********************************************
+	Secondary - Background Color
+***********************************************/
+.counter-wrap:hover .counter-icon i,
+.catfilter a.current, #contact input.submit,
+.form-one input.submit,
+#client-logo .owl-controls .owl-buttons div {
+    background-color: #dd3430;
+}
+
+/***********************************************
+	Secondary - Text Color
+***********************************************/
+.counter-letters, .valuein, .post-metas span a {
+    color: #dd3430;
+}
+
+.contact-navmenu-icon {
+    background-color: #ddd;
+}
+
+.contact-nav-wrap .contact-navmenu-icon:hover,
+.contact-nav-wrap .contact-navmenu-icon:active {
+    background-color: #5a528d !important;
+}
+
+.contact-nav-wrap .contact-navmenu-icon:focus {
+
+}
