@@ -2074,19 +2074,19 @@ ul.caret-list li:before {
 /* Text Color = Dark Color */
 
 /* Fireworks */
-.fireworks .skillbar-title,
-.fireworks .skillbar-bar {
-    background: #e6e800;
+.sketch .skillbar-title,
+.sketch .skillbar-bar {
+    background: #FEAE01;
 }
 
 /* Light Color */
-.fireworks .skillbar-title span {
-    background: #595536;
+.sketch .skillbar-title span {
+    background: #F56502;
 }
 
 /* Dark Color */
-.fireworks .percentage-text {
-    color: #595536;
+.sketch .percentage-text {
+    color:#ea6434;
 }
 
 /* Text Color = Dark Color */
